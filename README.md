@@ -1,0 +1,2 @@
+# AndroidPasswordCase
+Password and translate
